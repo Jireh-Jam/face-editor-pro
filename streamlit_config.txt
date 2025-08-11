@@ -1,0 +1,44 @@
+[theme]
+# Primary accent color for interactive elements
+primaryColor = "#FF6B6B"
+
+# Background color for the main content area
+backgroundColor = "#FFFFFF"
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = "#F0F2F6"
+
+# Color used for almost all text
+textColor = "#262730"
+
+# Font family for all text in the app
+font = "sans serif"
+
+[server]
+# Max size of uploaded files (in MB)
+maxUploadSize = 10
+
+# Port for the app (default 8501)
+port = 8501
+
+# Enable CORS protection
+enableCORS = false
+
+# Enable XSRF protection
+enableXsrfProtection = true
+
+# Headless mode (for deployment)
+headless = true
+
+# Enable file watching
+fileWatcherType = "auto"
+
+[browser]
+# Internet address of the server
+serverAddress = "localhost"
+
+# Whether to send usage stats
+gatherUsageStats = false
+
+# Port for the browser
+serverPort = 8501

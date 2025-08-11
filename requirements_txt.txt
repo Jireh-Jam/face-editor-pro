@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit==1.29.0
+torch==2.1.0
+torchvision==0.16.0
+opencv-python-headless==4.8.1.78
+Pillow==10.1.0
+numpy==1.24.3
+
+# Diffusers and transformers
+diffusers==0.24.0
+transformers==4.36.0
+accelerate==0.25.0
+safetensors==0.4.1
+xformers==0.0.22
+
+# ControlNet
+controlnet-aux==0.0.7
+
+# Additional UI components
+streamlit-drawable-canvas==0.9.3
+
+# Model downloading
+gdown==4.7.1
+
+# Image processing
+scikit-image==0.22.0
+scipy==1.11.4
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
