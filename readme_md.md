@@ -222,4 +222,4 @@ For questions or support, please open an issue or contact [your-email@example.co
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Jireh Jam**
